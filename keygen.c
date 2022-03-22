@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-#include<string.h>
 void main()
 {
     int min_length = 8;
